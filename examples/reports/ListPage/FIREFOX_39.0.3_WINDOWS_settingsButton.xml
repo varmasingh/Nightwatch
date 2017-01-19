@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="settingsButton"
+    errors="0" failures="1" hostname="" id="" package="ListPage" skipped="0"
+    tests="2" time="40.77" timestamp="Thu, 12 Jan 2017 06:15:36 GMT">
+  
+    <testcase name="Open list page and verify settings button" time="40.00" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="settings button object check" time="0.7690" assertions="4">
+
+    
+
+    
+
+      <failure message="Expected element &lt;.button.button--edit&gt; to have css property &quot;background-color&quot; which equals: &quot;#fff&quot;">    at Object.settings button object check (C:\Users\vermaa\Desktop\Final code\nightwatch\examples\tests\ListPage\settingsButton.js:74:17)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
